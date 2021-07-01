@@ -1,0 +1,9 @@
+{
+  "name": "god-armor",
+  "version": "2.1.0",
+  "title": "God Armor",
+  "author": "Hugo",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "This is my God Armour Mod. It spawns fire and explosions where you walk, it is based on Gangsir tutorial"
+}

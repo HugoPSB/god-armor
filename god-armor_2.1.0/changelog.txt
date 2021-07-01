@@ -1,0 +1,17 @@
+01/07/2021
+2.1.0
+Added explosions and menu toggle
+---------
+01/07/2021
+1.0.0
+First version finished - Added the fire trails
+---------
+01/07/2021
+0.0.0
+Starting to make mod!
+---------
+
+Big thanks to Gangsir for making the tutorial that is the base of my mod
+Linked here https://wiki.factorio.com/Tutorial:Modding_tutorial/Gangsir
+
+This is my first mod I have made ever and first time making somthing in lua.
